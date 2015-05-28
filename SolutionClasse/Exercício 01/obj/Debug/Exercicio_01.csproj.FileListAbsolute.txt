@@ -1,0 +1,6 @@
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercício 01\bin\Debug\Exercício 01.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercício 01\bin\Debug\Exercício 01.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercício 01\bin\Debug\Exercício 01.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercício 01\obj\Debug\Exercicio_01.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercício 01\obj\Debug\Exercício 01.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercício 01\obj\Debug\Exercício 01.pdb

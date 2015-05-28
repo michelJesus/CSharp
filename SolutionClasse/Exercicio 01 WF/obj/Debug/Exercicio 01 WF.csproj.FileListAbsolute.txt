@@ -1,0 +1,9 @@
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\bin\Debug\Exercicio 01 WF.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\bin\Debug\Exercicio 01 WF.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\bin\Debug\Exercicio 01 WF.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\obj\Debug\Exercicio 01 WF.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\obj\Debug\Exercicio_01_WF.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\obj\Debug\Exercicio 01 WF.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\obj\Debug\Exercicio 01 WF.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\obj\Debug\Exercicio 01 WF.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Exercicio 01 WF\obj\Debug\Exercicio_01_WF.Form1.resources

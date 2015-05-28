@@ -1,0 +1,6 @@
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Classe\bin\Debug\Classe.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Classe\bin\Debug\Classe.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Classe\bin\Debug\Classe.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Classe\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Classe\obj\Debug\Classe.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionClasse\Classe\obj\Debug\Classe.pdb

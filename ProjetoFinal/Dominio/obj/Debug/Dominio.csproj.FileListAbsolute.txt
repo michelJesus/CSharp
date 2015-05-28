@@ -1,0 +1,5 @@
+C:\Users\Michel\Documents\GitHub\cs2\ProjetoFinal\Dominio\bin\Debug\Dominio.dll
+C:\Users\Michel\Documents\GitHub\cs2\ProjetoFinal\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Michel\Documents\GitHub\cs2\ProjetoFinal\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\ProjetoFinal\Dominio\obj\Debug\Dominio.dll
+C:\Users\Michel\Documents\GitHub\cs2\ProjetoFinal\Dominio\obj\Debug\Dominio.pdb

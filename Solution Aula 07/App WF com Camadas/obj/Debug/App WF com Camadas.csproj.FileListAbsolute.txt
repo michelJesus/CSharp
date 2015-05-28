@@ -1,0 +1,10 @@
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\bin\Debug\App WF com Camadas.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\bin\Debug\App WF com Camadas.exe
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\bin\Debug\App WF com Camadas.pdb
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\App WF com Camadas.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\App_WF_com_Camadas.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\Exercicio_01_WF.Form1.resources
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\App_WF_com_Camadas.FrmPrincipal.resources
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\App WF com Camadas.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\App WF com Camadas.exe
+C:\Users\Michel\Documents\GitHub\cs2\Solution Aula 07\App WF com Camadas\obj\Debug\App WF com Camadas.pdb

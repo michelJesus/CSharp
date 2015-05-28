@@ -1,0 +1,14 @@
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\ApsContaBancoWFA.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\ApsContaBancoWFA.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\ApsContaBancoWFA.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\EntityFramework.dll
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\EntityFramework.xml
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.Form1.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.Form2.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.Form3.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionApsContaBancoWFA\ApsContaBancoWFA\obj\Debug\ApsContaBancoWFA.pdb

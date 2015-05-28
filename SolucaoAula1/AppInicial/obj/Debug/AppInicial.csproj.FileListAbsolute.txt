@@ -1,0 +1,9 @@
+C:\Users\Michel\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\bin\Debug\AppInicial.exe.config
+C:\Users\Michel\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\bin\Debug\AppInicial.exe
+C:\Users\Michel\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\bin\Debug\AppInicial.pdb
+C:\Users\Michel\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\obj\Debug\AppInicial.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\obj\Debug\AppInicial.exe
+C:\Users\Michel\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\obj\Debug\AppInicial.pdb
+C:\Users\michel.jesus.TECNICON\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\bin\Debug\AppInicial.exe.config
+C:\Users\michel.jesus.TECNICON\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\obj\Debug\AppInicial.exe
+C:\Users\michel.jesus.TECNICON\Google Drive\1 - CTPositivo\Linguagem de Programação 2\Projeto\SolucaoAula1\AppInicial\obj\Debug\AppInicial.pdb

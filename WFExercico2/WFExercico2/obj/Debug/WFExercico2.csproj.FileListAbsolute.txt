@@ -1,0 +1,13 @@
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\WFExercico2.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\WFExercico2.exe
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\WFExercico2.pdb
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\EntityFramework.dll
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\EntityFramework.xml
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\obj\Debug\WFExercico2.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\obj\Debug\WFExercico2.Form1.resources
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\obj\Debug\WFExercico2.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\obj\Debug\WFExercico2.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\obj\Debug\WFExercico2.exe
+C:\Users\Michel\Documents\GitHub\cs2\WFExercico2\WFExercico2\obj\Debug\WFExercico2.pdb

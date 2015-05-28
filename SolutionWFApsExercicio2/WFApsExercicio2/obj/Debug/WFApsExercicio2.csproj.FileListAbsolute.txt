@@ -1,0 +1,14 @@
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\WFApsExercicio2.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\WFApsExercicio2.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\WFApsExercicio2.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.Form1.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\EntityFramework.dll
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\EntityFramework.xml
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFApsExercicio2\WFApsExercicio2\obj\Debug\WFApsExercicio2.FormCadastroProduto.resources

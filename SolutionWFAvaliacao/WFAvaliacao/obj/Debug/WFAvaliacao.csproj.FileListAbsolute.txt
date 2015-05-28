@@ -1,0 +1,13 @@
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\WFAvaliacao.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\WFAvaliacao.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\WFAvaliacao.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\EntityFramework.dll
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\EntityFramework.xml
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\obj\Debug\WFAvaliacao.Form1.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\obj\Debug\WFAvaliacao.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\obj\Debug\WFAvaliacao.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\obj\Debug\WFAvaliacao.exe
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\obj\Debug\WFAvaliacao.pdb
+C:\Users\Michel\Documents\GitHub\cs2\SolutionWFAvaliacao\WFAvaliacao\obj\Debug\WFAvaliacao.Migrations.InitialCreate.resources

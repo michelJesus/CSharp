@@ -1,0 +1,6 @@
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionResolucaoExercicioSalaAula4\ResolucaoExercicioSalaAula4\bin\Debug\ResolucaoExercicioSalaAula4.exe.config
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionResolucaoExercicioSalaAula4\ResolucaoExercicioSalaAula4\obj\Debug\ResolucaoExercicioSalaAula4.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionResolucaoExercicioSalaAula4\ResolucaoExercicioSalaAula4\bin\Debug\ResolucaoExercicioSalaAula4.exe
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionResolucaoExercicioSalaAula4\ResolucaoExercicioSalaAula4\bin\Debug\ResolucaoExercicioSalaAula4.pdb
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionResolucaoExercicioSalaAula4\ResolucaoExercicioSalaAula4\obj\Debug\ResolucaoExercicioSalaAula4.exe
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionResolucaoExercicioSalaAula4\ResolucaoExercicioSalaAula4\obj\Debug\ResolucaoExercicioSalaAula4.pdb

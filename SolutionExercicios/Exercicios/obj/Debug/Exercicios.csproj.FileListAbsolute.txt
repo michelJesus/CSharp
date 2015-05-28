@@ -1,0 +1,6 @@
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionExercicios\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionExercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionExercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionExercicios\Exercicios\obj\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionExercicios\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\Michel\Source\Workspaces\Teste02\SolutionExercicios\Exercicios\obj\Debug\Exercicios.pdb

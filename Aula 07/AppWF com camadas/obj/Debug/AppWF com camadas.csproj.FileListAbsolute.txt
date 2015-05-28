@@ -1,0 +1,14 @@
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\AppWF com camadas.exe.config
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF com camadas.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF_com_camadas.View.TelaDeCadastro.resources
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF_com_camadas.TelaPrincipal.resources
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF_com_camadas.Properties.Resources.resources
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF com camadas.csproj.GenerateResource.Cache
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\AppWF com camadas.exe
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\AppWF com camadas.pdb
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF com camadas.exe
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\obj\Debug\AppWF com camadas.pdb
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\EntityFramework.dll
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\EntityFramework.xml
+C:\Users\Michel\Documents\GitHub\cs2\Aula 07\AppWF com camadas\bin\Debug\EntityFramework.SqlServer.xml
